@@ -1,7 +1,10 @@
 # AV番号
 
+[toc]
+
 本文作于2023年1月28日，只是大致进行梳理，仅供参考，不保证内容全面.
 常规番号指并无特别含义和特点、不专门用于某个系列，仅体现公司一般特色的番号。
+大部分片商为日本本土企业，受日本监管，无法拍摄无码内容，番号为各种英文缩写
 
 ## 北都集团
 
@@ -668,6 +671,206 @@ Real Works旗下，专门制作熟女题材
 Cos、动漫主题
 
 -ZIZG：不详
+
+### Maxing
+
+- MXGS：不详
+- MX3DS：不详
+
+## 无码片商
+
+无码片商较少，且对读者可能更有用，所以单独归为一类方便阅读
+无码片商多为在日本以外注册，番号格式与日本本土片商有所不同
+
+### 东京热
+
+偏硬调色情，番号以n、k开头直接加数字编码
+nxxx：常规番号
+kxxx：素人题材
+
+### 一本道
+
+特色就是无码，提供线上付费下载高分辨率视频文件，番号为9位纯数字编码，前六位位发行日期，后三位是影片编号，两者间用-隔开。
+
+### caribbeancom（加勒比）
+
+番号与一本道类似
+
+### Sky High Entertainment（空天使）
+
+- SKY：常规番号
+
+### RED HOT Collection（红热）
+
+美国注册的日本片商
+
+- RHJ：Red Hot Jam
+- RED：Red Hot Fetish Collection
+- CRD：RED HOT IDOL
+
+### Super Model Media（超级名模）
+
+- SMD：常规番号
+- SMDV：常规番号
+- SMBD：蓝光番号
+- SM3D2DBD：蓝光的3D或2D版
+
+### CATWALK(猫步毒药)
+
+- CWP：常规番号
+- CWDV：常规番号
+- CWPBD：CWP的蓝光版
+- CW3D2DBD：CWDV的3D、2D版蓝光
+
+### Tora-Tora-Tora（虎虎虎）
+
+一个丧失北美市场和网络市场后去世的厂商
+
+- TRP：常规番号
+
+### Stage 2 Media
+
+- s2m：DVD常规番号
+- s2mbd：蓝光常规番号
+
+### MUGEN Entertainment
+
+最早采用蓝光盘的片商之一
+
+- MX：未知
+- MG：未知
+- MW：未知
+- MUD：未知
+- MKD-S：未知
+- MUBD：MUD的蓝光版
+- MKBD-S：MKD-S的蓝光版
+
+### Fetish Hood 东方梦
+
+- FH：常规番号
+
+### Kamikaze Ent神风（步兵）
+
+- KP：Kamikaze Premium系列
+- KS：Kamikaze Street系列
+- KG：Kamikaze Girls系列
+
+### KOKESHI
+
+- KS：未知
+
+### Yuzu
+
+- YZD：未知
+- GOD：未知
+- YUU：未知
+
+### EMPIRE
+
+- EMP：未知
+
+### C0930 |「人妻斬り」
+
+- C0930-pla：未知
+- C0930-gol：未知
+- C0930-gitozuna：未知
+
+### Pink Puncher
+
+- PB：未知
+
+### CATCHEYE
+
+- DRC：未知
+- DRG：未知
+
+### SAMURAI PORN
+
+- DSAM：未知
+- EB：未知
+- SMR：未知
+- SP：未知
+
+### XXX-AV
+
+- xxx-av：未知
+
+### MuraMura
+
+- muramura_月日年_：常规番号
+
+### RUBY人妻
+
+- MKD：未知
+
+### MUGEN Ent
+
+- MKBD-S：未知
+- MKD-S：未知
+
+### One Piece Ent
+
+- OPC：未知
+
+### Jukujo-Club | 熟女俱乐部
+
+- Jukujo-Club：未知
+
+### Studio Teriyaki
+
+- PT：未知
+
+### Mesubuta | メス豚
+
+- mesubuta 年月日_：常规番号
+
+### AV9898 | AV-酒吧
+
+- AV9898：未知
+
+### Oriental Dream
+
+- FH：未知
+
+### G-Queen | 無毛宣言
+
+- G-Queen：未知
+
+### Pacopacomama | 人妻・熟女
+
+- pacopacomama-月日年：未知
+
+### Gachinco | ガチん娘
+
+- gachixxx-HD：常规番号
+
+### 10musume | 天然素人
+
+- 10musume-年月日_01：常规番号
+
+### SASUKE
+
+- SSKJ：未知
+
+### 1000giri | 1000人斬り
+
+- 1000giri-年月日：常规番号
+
+### H4610 |「エッチな４６１０」
+
+以出演者名字命名
+
+### のぞき本舗中村屋
+
+以影片名称来确定番号，无特定规律
+
+### AKIBAHONPO（アキバ本舗）
+
+- Akibahonpo：常规番号
+
+### H0930 |「エッチな０９３０」
+
+番号较复杂，暂未知规律
 
 ## 未归类
 
